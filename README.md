@@ -7,5 +7,7 @@ And the purpose of the NLP part is to find the patterns in the ingredients of th
 ### Natural Language Processing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18hi1Ly-vh6U20mYgObCgvZFQlObZBbod)
 ### File name explanation
 - M2_Stakeholder_Report: Report for non-technical readers
-
-
+- M2-exam-assignement: A rendered PDF version of our notebook
+- Data file: https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions#RAW_interactions.csv
+- M2_NA: source code file for network analysis
+- M2_NLP: source code file for natural language processing
