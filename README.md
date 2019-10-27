@@ -6,7 +6,7 @@ And the purpose of the NLP part is to find the patterns in the ingredients of th
 ### Network analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sWZyUVTi4l3qOwPQT-YITsThD-ZM0Tkh)
 ### Natural Language Processing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18hi1Ly-vh6U20mYgObCgvZFQlObZBbod)
 
-Alternative link for NPL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r86Tap_g2IHTrxFWs439obaa5_4sEaTv)
+Alternative link for NPL if you have errors [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r86Tap_g2IHTrxFWs439obaa5_4sEaTv)
 ### File name explanation
 - M2_Stakeholder_Report: Report for non-technical readers
 - M2-exam-assignement: A rendered PDF version of our notebook
